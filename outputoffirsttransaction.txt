@@ -1,0 +1,27 @@
+My address: ZWMEOO6LP72MJ5MZH2P7A2EHUI6K5G7AMUVLFDK3NVCNJU4MBPKSCBJA5M
+Account balance: 10000000 microAlgos
+Signed transaction with txID: ODI3NLFPLKE2F7YU4JHYOH6GTICTPBQBMV4NNUZIF6HIAJ7FYR5A
+Transaction information: {
+    "confirmed-round": 27276001,
+    "pool-error": "",
+    "txn": {
+        "sig": "wjcLUB6qURgZJ21ajEiP0byJnun7UGmqZNi4GuDXn90LLNtNXT6nAKuhLiPhYt6sCqhG3APzPwOCTijwwg/cAA==",
+        "txn": {
+            "amt": 100000,
+            "fee": 1000,
+            "fv": 27275999,
+            "gen": "testnet-v1.0",
+            "gh": "SGO1GKSzyE7IEPItTxCByw9x8FmnrCDexi9/cOUJOiI=",
+            "lv": 27276999,
+            "note": "SGVsbG8gV29ybGQ=",
+            "rcv": "HZ57J3K46JIJXILONBBZOHX6BKPXEM2VVXNRFSUED6DKFD5ZD24PMJ3MVA",
+            "snd": "ZWMEOO6LP72MJ5MZH2P7A2EHUI6K5G7AMUVLFDK3NVCNJU4MBPKSCBJA5M",
+            "type": "pay"
+        }
+    }
+}
+Decoded note: Hello World
+Starting Account balance: 10000000 microAlgos
+Amount transfered: 100000 microAlgos
+Fee: 1000 microAlgos
+Final Account balance: 9899000 microAlgos
